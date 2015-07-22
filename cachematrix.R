@@ -1,4 +1,4 @@
-## The 2 functions Computine the inverse of a square matrix.
+## The 2 functions Compute the inverse of a square matrix.
 
 ## The makeCacheMatrix function creates a special "matrix" object that 
 ## can cache its inverse.
